@@ -1,4 +1,7 @@
 # MeXEE-402_MEXE-4101_GROUP-3_OpenCV
 
 **PART 1**
+
 **PART 2**
+
+**PART 3**
